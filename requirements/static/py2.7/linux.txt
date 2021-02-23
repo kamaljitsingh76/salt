@@ -29,7 +29,7 @@ contextlib2==0.5.5        # via cherrypy
 cookies==2.2.1            # via responses
 coverage==4.5.3           # via pytest-cov
 croniter==0.3.29
-cryptography==2.6.1       # via moto, paramiko, pyopenssl
+cryptography==3.3.2       # via moto, paramiko, pyopenssl
 dnspython==1.16.0
 docker-pycreds==0.4.0     # via docker
 docker==3.7.2
