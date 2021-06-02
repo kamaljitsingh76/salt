@@ -112,5 +112,5 @@ requests==2.21.0          # via adal, azure-cosmosdb-table, azure-datalake-store
 six==1.12.0               # via cryptography, isodate, profitbricks, pypsexec, python-dateutil, pywinrm, smbprotocol
 smbprotocol==0.1.1        # via pypsexec
 typing==3.6.6             # via msrest
-urllib3==1.24.2           # via requests
+urllib3==1.26.5           # via requests
 xmltodict==0.12.0         # via pywinrm
